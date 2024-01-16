@@ -22,3 +22,16 @@ body {
 .container {
     margin: 10rem;
 }
+
+.btn-secondary {
+    background-color: whitesmoke;
+    border: none;
+    padding: 0.5rem;
+}
+
+.btn-primary {
+    background-color: blueviolet;
+    color: whitesmoke;
+    border: none;
+    padding: 0.5rem;
+}
